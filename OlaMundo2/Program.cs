@@ -10,6 +10,8 @@ namespace OlaMundo2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá Mundo!");
+            Console.ReadKey();
         }
     }
 }
